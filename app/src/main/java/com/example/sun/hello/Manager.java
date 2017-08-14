@@ -12,6 +12,7 @@ public class Manager {
         }
         return Manager;
     }
+
 Listener Listener;
  void   setListener(Listener Listener){
      this.Listener=Listener;
