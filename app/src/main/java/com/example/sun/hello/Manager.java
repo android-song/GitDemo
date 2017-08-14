@@ -7,6 +7,7 @@ package com.example.sun.hello;
 public class Manager {
     private static Manager Manager;
         int i=0;
+      String name="";
     public static Manager getInstance(){
         if (Manager==null){
             Manager=new Manager();
