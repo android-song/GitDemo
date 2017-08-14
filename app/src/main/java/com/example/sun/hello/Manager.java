@@ -6,10 +6,12 @@ package com.example.sun.hello;
 
 public class Manager {
     private static Manager Manager;
+    int i=0;
     public static Manager getInstance(){
         if (Manager==null){
             Manager=new Manager();
         }
+
         return Manager;
     }
 
