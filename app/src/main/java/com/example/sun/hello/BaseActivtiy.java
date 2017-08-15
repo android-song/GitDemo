@@ -16,10 +16,10 @@ public class BaseActivtiy extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         //
 //        setContentView(R.layout.activity_base);
-
+  int i=0;
     }
 
-    public void setLayout(Object p0) {
+    public void setLayout(Object qw) {
     }
 
 }
