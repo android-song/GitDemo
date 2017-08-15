@@ -6,4 +6,5 @@ package com.example.sun.hello;
 
 public class E {
     int i=0;
+    int j=0;
 }
