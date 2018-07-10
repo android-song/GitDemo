@@ -19,7 +19,7 @@ public class MysurfaceView extends SurfaceView implements SurfaceHolder.Callback
     public MysurfaceView(Context context) {
         super(context);
         int a=0;
-        
+        int b=1;
         // 通过SurfaceView获得SurfaceHolder对象
         holder = getHolder();
 
